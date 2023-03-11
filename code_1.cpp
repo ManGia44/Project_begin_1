@@ -9,5 +9,5 @@ cout<<x;
 cout<<endl;
 cout << y;
 }
-return 2;
+return 0;
 }
